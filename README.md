@@ -1,5 +1,5 @@
 # Sudoku-Solver
-Ecrire les parties manquantes d’une petite application de résolution naïve (« force brute ») de grilles de Sudoku généralisées
+Ecrire les parties manquantes d’une petite application de résolution naïve (« force brute ») de grilles de Sudoku généralisées\
 Entrée:
 ![image](https://user-images.githubusercontent.com/47635960/150097553-7a8c5aae-221c-4251-a492-56f86916f2e6.png)
 Sortie:
